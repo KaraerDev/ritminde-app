@@ -1,0 +1,13 @@
+# Line endings: LF on checkout for text files, native handling on Windows
+* text=auto eol=lf
+
+# Images and fonts stay binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.woff binary
+*.woff2 binary
